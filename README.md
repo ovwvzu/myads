@@ -2,15 +2,6 @@
 
 <table align="center" border="0">
 
-<tr>
-<td> <img src="https://ovwvzu.github.io/myads/Simulator Screen Shot - iPhone 8 Plus - 2022-07-19 at 23.12.10.png"> </td>
-<td> <img src="https://ovwvzu.github.io/myads/Simulator Screen Shot - iPhone 8 Plus - 2022-07-19 at 23.12.15.png"> </td>
-<td> <img src="https://ovwvzu.github.io/myads/Simulator Screen Shot - iPhone 8 Plus - 2022-07-19 at 23.12.18.png"> </td>
-  <td> <img src="https://ovwvzu.github.io/myads/Simulator Screen Shot - iPhone 8 Plus - 2022-07-19 at 23.12.23.png"> </td>
-</tr>
-
-<tr>
-
 </tr>
 
 
